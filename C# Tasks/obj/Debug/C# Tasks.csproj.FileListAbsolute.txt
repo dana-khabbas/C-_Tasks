@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\orange coding school\c#\C# Tasks\bin\Debug\C# Tasks.exe.config
+C:\Users\HP\Desktop\orange coding school\c#\C# Tasks\bin\Debug\C# Tasks.exe
+C:\Users\HP\Desktop\orange coding school\c#\C# Tasks\bin\Debug\C# Tasks.pdb
+C:\Users\HP\Desktop\orange coding school\c#\C# Tasks\obj\Debug\C# Tasks.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\orange coding school\c#\C# Tasks\obj\Debug\C# Tasks.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\orange coding school\c#\C# Tasks\obj\Debug\C# Tasks.exe
+C:\Users\HP\Desktop\orange coding school\c#\C# Tasks\obj\Debug\C# Tasks.pdb
