@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\orange coding school\c#\c#ForLoopTasks\bin\Debug\c#ForLoopTasks.exe.config
+C:\Users\HP\Desktop\orange coding school\c#\c#ForLoopTasks\bin\Debug\c#ForLoopTasks.exe
+C:\Users\HP\Desktop\orange coding school\c#\c#ForLoopTasks\bin\Debug\c#ForLoopTasks.pdb
+C:\Users\HP\Desktop\orange coding school\c#\c#ForLoopTasks\obj\Debug\c#ForLoopTasks.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\orange coding school\c#\c#ForLoopTasks\obj\Debug\c#ForLoopTasks.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\orange coding school\c#\c#ForLoopTasks\obj\Debug\c#ForLoopTasks.exe
+C:\Users\HP\Desktop\orange coding school\c#\c#ForLoopTasks\obj\Debug\c#ForLoopTasks.pdb
