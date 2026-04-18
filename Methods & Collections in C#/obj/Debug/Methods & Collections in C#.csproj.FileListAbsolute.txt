@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\orange coding school\c#\Methods & Collections in C#\bin\Debug\Methods & Collections in C#.exe.config
+C:\Users\HP\Desktop\orange coding school\c#\Methods & Collections in C#\bin\Debug\Methods & Collections in C#.exe
+C:\Users\HP\Desktop\orange coding school\c#\Methods & Collections in C#\bin\Debug\Methods & Collections in C#.pdb
+C:\Users\HP\Desktop\orange coding school\c#\Methods & Collections in C#\obj\Debug\Methods & Collections in C#.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\orange coding school\c#\Methods & Collections in C#\obj\Debug\Methods & Collections in C#.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\orange coding school\c#\Methods & Collections in C#\obj\Debug\Methods & Collections in C#.exe
+C:\Users\HP\Desktop\orange coding school\c#\Methods & Collections in C#\obj\Debug\Methods & Collections in C#.pdb

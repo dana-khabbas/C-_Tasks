@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\orange coding school\c#\function(3)\bin\Debug\function(3).exe.config
+C:\Users\HP\Desktop\orange coding school\c#\function(3)\bin\Debug\function(3).exe
+C:\Users\HP\Desktop\orange coding school\c#\function(3)\bin\Debug\function(3).pdb
+C:\Users\HP\Desktop\orange coding school\c#\function(3)\obj\Debug\function(3).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\orange coding school\c#\function(3)\obj\Debug\function(3).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\orange coding school\c#\function(3)\obj\Debug\function(3).exe
+C:\Users\HP\Desktop\orange coding school\c#\function(3)\obj\Debug\function(3).pdb
