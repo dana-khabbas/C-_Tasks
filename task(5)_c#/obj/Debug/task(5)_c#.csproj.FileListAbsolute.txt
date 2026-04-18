@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\orange coding school\c#\task(5)_c#\bin\Debug\task(5)_c#.exe.config
+C:\Users\HP\Desktop\orange coding school\c#\task(5)_c#\bin\Debug\task(5)_c#.exe
+C:\Users\HP\Desktop\orange coding school\c#\task(5)_c#\bin\Debug\task(5)_c#.pdb
+C:\Users\HP\Desktop\orange coding school\c#\task(5)_c#\obj\Debug\task(5)_c#.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\orange coding school\c#\task(5)_c#\obj\Debug\task(5)_c#.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\orange coding school\c#\task(5)_c#\obj\Debug\task(5)_c#.exe
+C:\Users\HP\Desktop\orange coding school\c#\task(5)_c#\obj\Debug\task(5)_c#.pdb
