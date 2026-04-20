@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\orange coding school\c#\OOP_in_C#\bin\Debug\OOP_in_C#.exe.config
+C:\Users\HP\Desktop\orange coding school\c#\OOP_in_C#\bin\Debug\OOP_in_C#.exe
+C:\Users\HP\Desktop\orange coding school\c#\OOP_in_C#\bin\Debug\OOP_in_C#.pdb
+C:\Users\HP\Desktop\orange coding school\c#\OOP_in_C#\obj\Debug\OOP_in_C#.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\orange coding school\c#\OOP_in_C#\obj\Debug\OOP_in_C#.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\orange coding school\c#\OOP_in_C#\obj\Debug\OOP_in_C#.exe
+C:\Users\HP\Desktop\orange coding school\c#\OOP_in_C#\obj\Debug\OOP_in_C#.pdb
