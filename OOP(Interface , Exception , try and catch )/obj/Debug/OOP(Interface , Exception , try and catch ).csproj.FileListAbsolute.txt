@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\orange coding school\c#\OOP(Interface , Exception , try and catch )\bin\Debug\OOP(Interface , Exception , try and catch ).exe.config
+C:\Users\HP\Desktop\orange coding school\c#\OOP(Interface , Exception , try and catch )\bin\Debug\OOP(Interface , Exception , try and catch ).exe
+C:\Users\HP\Desktop\orange coding school\c#\OOP(Interface , Exception , try and catch )\bin\Debug\OOP(Interface , Exception , try and catch ).pdb
+C:\Users\HP\Desktop\orange coding school\c#\OOP(Interface , Exception , try and catch )\obj\Debug\OOP(Interface , Exception , try and catch ).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\orange coding school\c#\OOP(Interface , Exception , try and catch )\obj\Debug\OOP(Interface , Exception , try and catch ).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\orange coding school\c#\OOP(Interface , Exception , try and catch )\obj\Debug\OOP(Interface , Exception , try and catch ).exe
+C:\Users\HP\Desktop\orange coding school\c#\OOP(Interface , Exception , try and catch )\obj\Debug\OOP(Interface , Exception , try and catch ).pdb
