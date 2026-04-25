@@ -5,3 +5,10 @@ C:\Users\HP\Desktop\orange coding school\c#\C# Tasks - (Methods,List,LINQ,Linked
 C:\Users\HP\Desktop\orange coding school\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\C# Tasks - (Methods,List,LINQ,LinkedList).csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\orange coding school\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\C# Tasks - (Methods,List,LINQ,LinkedList).exe
 C:\Users\HP\Desktop\orange coding school\c#\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\C# Tasks - (Methods,List,LINQ,LinkedList).pdb
+C:\Users\HP\source\repos\C-_Tasks\C# Tasks - (Methods,List,LINQ,LinkedList)\bin\Debug\C# Tasks - (Methods,List,LINQ,LinkedList).exe.config
+C:\Users\HP\source\repos\C-_Tasks\C# Tasks - (Methods,List,LINQ,LinkedList)\bin\Debug\C# Tasks - (Methods,List,LINQ,LinkedList).exe
+C:\Users\HP\source\repos\C-_Tasks\C# Tasks - (Methods,List,LINQ,LinkedList)\bin\Debug\C# Tasks - (Methods,List,LINQ,LinkedList).pdb
+C:\Users\HP\source\repos\C-_Tasks\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\C# Tasks - (Methods,List,LINQ,LinkedList).csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C-_Tasks\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\C# Tasks - (Methods,List,LINQ,LinkedList).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C-_Tasks\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\C# Tasks - (Methods,List,LINQ,LinkedList).exe
+C:\Users\HP\source\repos\C-_Tasks\C# Tasks - (Methods,List,LINQ,LinkedList)\obj\Debug\C# Tasks - (Methods,List,LINQ,LinkedList).pdb

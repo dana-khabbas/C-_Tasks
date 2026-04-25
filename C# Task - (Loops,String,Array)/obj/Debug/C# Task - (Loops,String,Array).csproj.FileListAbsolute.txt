@@ -1,7 +1,0 @@
-C:\Users\HP\Desktop\orange coding school\c#\C# Task - (Loops,String,Array)\bin\Debug\C# Task - (Loops,String,Array).exe.config
-C:\Users\HP\Desktop\orange coding school\c#\C# Task - (Loops,String,Array)\bin\Debug\C# Task - (Loops,String,Array).exe
-C:\Users\HP\Desktop\orange coding school\c#\C# Task - (Loops,String,Array)\bin\Debug\C# Task - (Loops,String,Array).pdb
-C:\Users\HP\Desktop\orange coding school\c#\C# Task - (Loops,String,Array)\obj\Debug\C# Task - (Loops,String,Array).csproj.AssemblyReference.cache
-C:\Users\HP\Desktop\orange coding school\c#\C# Task - (Loops,String,Array)\obj\Debug\C# Task - (Loops,String,Array).csproj.CoreCompileInputs.cache
-C:\Users\HP\Desktop\orange coding school\c#\C# Task - (Loops,String,Array)\obj\Debug\C# Task - (Loops,String,Array).exe
-C:\Users\HP\Desktop\orange coding school\c#\C# Task - (Loops,String,Array)\obj\Debug\C# Task - (Loops,String,Array).pdb

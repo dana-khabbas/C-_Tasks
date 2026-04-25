@@ -381,22 +381,148 @@ namespace C__Tasks____Methods_List_LINQ_LinkedList_
             Console.WriteLine(maxKey);*/
 
             //t2
-            int[] x = { 1, 2, 3, 4, 5,6 };
-            int n = 2;
-            int save;
-            int change;
-            for (int i = 0; i < x.Length; i++)
-            {
-                save = x[i];
-                x[(i+n)%x.Length] = save;
+            /* int[] x = { 1, 2, 3, 4, 5 };
+             int[] y=new int[x.Length];
+             int n = 3;
+             int length = x.Length;
+             int c = 0;
+             for(int i = n; c < length; c++)
+             {
+                 y[c] = x[i];
+                 i=(i+1)%length;
+             }
+             foreach(int i in y)
+             {
+                 Console.Write(i+" ");
+             }*/
 
-                
-            }
+            //t3
+            /* int[] x = { 1, 2, 3, 2,1 };
+             bool isPalindrme = true;
+             int length = x.Length-1;
+             for(int i = 0; i < x.Length; i++)
+             {
+                 if (x[i]!= x[length - i])
+                 {
 
-            foreach (int i in  x)
+                     isPalindrme = false;
+                 }
+
+
+             }
+             Console.WriteLine(isPalindrme);*/
+
+
+            //t4
+            /*int[] x = { 1, 3, 5, 2, 6 };
+            int c =-1;
+            bool isMissing;
+           
+
+            for (int i = 1; i <= x.Length; i++)
             {
-                Console.WriteLine(i);
+                isMissing = true;
+                for(int j = 0;j<x.Length; j++)
+                {
+                    if (i == x[j])
+                    {
+                        isMissing=false;
+                        break;
+                    }
+                }
+                if (isMissing) {
+                    c = i;
+                    Console.WriteLine("the missing number is " + c);
+                    break; }
+
             }
+            if (c == -1)
+            {
+                Console.WriteLine("there is no missing number");
+            }*/
+
+            //t5
+            // cant solve it
+
+            //t6
+            /* int[] x = { 1, 2, 2, 3, 4, 1, 2, 3 };
+             int index = 0;
+             int bestCount = 0;
+             int count = 1;
+             int n = x[0];
+
+             for(int i=1;i<x.Length; i++)
+             {
+
+                 if (n + 1 == x[i])
+                 {
+                     count++;
+                     n++;
+                 }
+                 else
+                 {
+                     count = 1;
+                     n = x[i];
+                 }
+                 if (count > bestCount)
+                 {
+                     bestCount = count;
+                     index = i - (count-1);
+
+                 }
+
+
+
+             }
+
+             int[] y = new int[bestCount];
+             Array.Copy(x, index, y, 0, bestCount);
+
+             foreach(int i in y)
+             {
+                 Console.Write(i+" ");
+             }*/
+
+            //t7
+            int[] x = { 1, 2, 3, 1, 4, 2, 1 };
+            int distance = 0;
+            int shortDis = x.Length+1;
+            int num = -1;
+
+            for(int i = 0; i < x.Length; i++)
+            {
+
+                distance = 0;
+                for (int j = i + 1; j < x.Length; j++)
+                {
+                    if (x[i] == x[j])
+                    {
+                        if (distance < shortDis)
+                        {
+                            shortDis = distance;
+                            num = x[i];
+                        }
+                        break;
+                    }
+                    else { 
+                        
+                        distance++; }
+
+
+                }
+
+               
+            }
+            Console.WriteLine("Distance of "+num+" = "+(shortDis+1));
+
+
+
+
+
+
+
+
+
 
 
 
